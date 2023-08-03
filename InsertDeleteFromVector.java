@@ -1,11 +1,11 @@
 import java.util.Vector;
-import java.util.Scanner;
+//import java.util.Scanner;
 class InsertDeleteFromVector
 {
 public static void main(String [] args){
-    Scanner input= new Scanner(System.in);
-    System.out.println("Enter the number of elements you want");
-    int num = input.nextInt ();
+   // Scanner input= new Scanner(System.in);
+    //System.out.println("Enter the number of elements you want");
+   // int num = input.nextInt ();
     Vector <Integer> v1=new Vector<Integer>(); 
     v1.add(10);
     v1.add(20);

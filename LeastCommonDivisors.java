@@ -14,6 +14,6 @@ gcd = i;
 // lcm of the given number  
 int lcm = (a * b) / gcd;  
 //prints the result  
-System.out.printf("The LCM of "+a +"and "+b+"is"+(a *b)/gcd);  
+System.out.println("The LCM of "+a +"and "+b+"is"+(a *b)/gcd);  
 }  
 }  
